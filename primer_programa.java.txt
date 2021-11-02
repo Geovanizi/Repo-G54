@@ -1,4 +1,4 @@
-import java.*
-int codigo;
+
+Int cedula;
 String nombre;
 float ventas;
